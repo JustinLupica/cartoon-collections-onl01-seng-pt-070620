@@ -22,3 +22,6 @@ def find_the_cheese(array)
     end
 end
 end
+
+# returns first element  
+#enu.detect { |el|  el % 2 == 0 && el % 9 == 0} 
